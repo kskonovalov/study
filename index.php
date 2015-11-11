@@ -10,3 +10,4 @@ echo "Hello World";
 echo "Hello EveryBody!";
 echo "Hello!!!";
 echo "Hey hey hey!!!";
+print "why not print?";
