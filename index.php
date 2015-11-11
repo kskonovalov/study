@@ -6,6 +6,6 @@
  * Time: 13.20
  */
 
-echo "Hello World";
-echo "Hello EveryBody!";
-echo "Hello!!!";
+echo "Hello World;";
+echo "Hello EveryBody!;";
+echo "Hello!!!;";
